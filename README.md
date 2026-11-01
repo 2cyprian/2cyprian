@@ -17,7 +17,7 @@ I build technology that works — and fix it when it doesn't.
 IT support, full-stack web development, server deployment, data analysis, and GIS surveying.
 Not just one area. All of it.
 
-**Currently:** IT Support @ Geodata · Front-End Intern @ Subcode
+**Currently:** IT Support @ Geodata · Front-End Eng @ Codeblock
 **Building:** Machine learning projects in Python (churn prediction, sales forecasting, fraud detection)
 **Reach me:** emmanuelcyprian268@gmail.com
 **Portfolio:** [cyprian-tekisalama.netlify.app](https://cyprian-tekisalama.netlify.app)
